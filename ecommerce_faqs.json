@@ -1,0 +1,1502 @@
+[
+  {
+    "category": "Product Information",
+    "question": "How can I find product specifications?",
+    "answer": "Visit the product page and scroll to the “Specifications” section for size, color, materials, and technical details."
+  },
+  {
+    "category": "Product Information",
+    "question": "Do you provide size charts for clothing?",
+    "answer": "Yes. Each apparel product has a “Size Guide” link with measurements in inches and centimeters."
+  },
+  {
+    "category": "Product Information",
+    "question": "Can I see product reviews?",
+    "answer": "Yes. Scroll to the “Reviews” tab on the product page to see customer ratings and comments."
+  },
+  {
+    "category": "Product Information",
+    "question": "Are all products brand new?",
+    "answer": "Yes, all items are new unless clearly marked as “Refurbished” or “Open Box.”"
+  },
+  {
+    "category": "Product Information",
+    "question": "How do I check if an item is in stock?",
+    "answer": "If the “Add to Cart” button is active, the item is in stock. Otherwise, you’ll see “Out of Stock.”"
+  },
+  {
+    "category": "Product Information",
+    "question": "Do you offer eco-friendly products?",
+    "answer": "Yes, filter by “Eco-Friendly” in the category menu to view sustainable items."
+  },
+  {
+    "category": "Product Information",
+    "question": "Are your electronics covered by a warranty?",
+    "answer": "Yes. Warranty length varies by brand and is listed on the product page."
+  },
+  {
+    "category": "Product Information",
+    "question": "How do I know if a product is genuine?",
+    "answer": "We source directly from manufacturers or authorized distributors to ensure authenticity."
+  },
+  {
+    "category": "Product Information",
+    "question": "Do you provide installation services?",
+    "answer": "For select appliances and electronics, installation is available at checkout."
+  },
+  {
+    "category": "Product Information",
+    "question": "How often do you restock products?",
+    "answer": "Restocking depends on supplier availability. You can sign up for restock alerts on the product page."
+  },
+  {
+    "category": "Product Information",
+    "question": "Do you sell second-hand items?",
+    "answer": "No, except for officially certified refurbished products."
+  },
+  {
+    "category": "Product Information",
+    "question": "Can I compare products?",
+    "answer": "Yes. Use the “Compare” button on product listings to view differences side-by-side."
+  },
+  {
+    "category": "Product Information",
+    "question": "Do you have vegan or cruelty-free beauty products?",
+    "answer": "Yes, filter by “Vegan” or “Cruelty-Free” in the Beauty category."
+  },
+  {
+    "category": "Product Information",
+    "question": "Are product images accurate?",
+    "answer": "We aim for accuracy, but colors may vary slightly due to screen settings."
+  },
+  {
+    "category": "Product Information",
+    "question": "Can I get a product demo?",
+    "answer": "Selected items have demo videos on the product page."
+  },
+  {
+    "category": "Product Information",
+    "question": "How do I know if a product fits my needs?",
+    "answer": "Check specifications, reviews, and “Recommended for” sections."
+  },
+  {
+    "category": "Product Information",
+    "question": "Do products come assembled?",
+    "answer": "Small items usually come assembled; large furniture may require assembly."
+  },
+  {
+    "category": "Product Information",
+    "question": "Are there bundle deals available?",
+    "answer": "Yes. Look for “Bundle & Save” offers on eligible products."
+  },
+  {
+    "category": "Product Information",
+    "question": "Can I request a product sample?",
+    "answer": "Samples are available for some cosmetics and fabrics."
+  },
+  {
+    "category": "Product Information",
+    "question": "Do you sell replacement parts?",
+    "answer": "Yes, search for “Spare Parts” in the catalog."
+  },
+  {
+    "category": "Product Information",
+    "question": "How do I check if a product is discontinued?",
+    "answer": "Discontinued items are marked “No longer available” on the site."
+  },
+  {
+    "category": "Product Information",
+    "question": "Can I customize a product?",
+    "answer": "Selected items allow customization such as engraving or color choice."
+  },
+  {
+    "category": "Product Information",
+    "question": "Do you provide product care instructions?",
+    "answer": "Yes. Care guides are included in the package or on the product page."
+  },
+  {
+    "category": "Product Information",
+    "question": "Are there kid-safe products?",
+    "answer": "Yes, look for “Child-Safe” labels in product details."
+  },
+  {
+    "category": "Product Information",
+    "question": "Do you sell limited-edition items?",
+    "answer": "Yes. These are marked as “Limited Edition” on the product page."
+  },
+  {
+    "category": "Product Information",
+    "question": "How do I know if an item is waterproof?",
+    "answer": "Waterproof ratings are listed in the product specs."
+  },
+  {
+    "category": "Product Information",
+    "question": "Can I pre-order upcoming products?",
+    "answer": "Yes, pre-order options appear for select launches."
+  },
+  {
+    "category": "Product Information",
+    "question": "Are there allergen-free options in food items?",
+    "answer": "Yes, filter by “Allergen-Free” in the Food category."
+  },
+  {
+    "category": "Product Information",
+    "question": "Do you sell products in bulk?",
+    "answer": "Yes. Discounts may apply to bulk orders."
+  },
+  {
+    "category": "Product Information",
+    "question": "Are all prices inclusive of tax?",
+    "answer": "Taxes are calculated at checkout based on your location."
+  },
+  {
+    "category": "Ordering and Checkout",
+    "question": "How do I place an order?",
+    "answer": "Browse products, add items to your cart, then click 'Checkout' and follow the steps to complete your purchase."
+  },
+  {
+    "category": "Ordering and Checkout",
+    "question": "Do I need an account to place an order?",
+    "answer": "No, you can checkout as a guest, but creating an account helps track your orders and save your details."
+  },
+  {
+    "category": "Ordering and Checkout",
+    "question": "Can I change my order after placing it?",
+    "answer": "Changes are possible within 30 minutes of placing your order by contacting our support team."
+  },
+  {
+    "category": "Ordering and Checkout",
+    "question": "How do I apply a discount code?",
+    "answer": "Enter your discount code in the 'Promo Code' box at checkout, then click 'Apply'."
+  },
+  {
+    "category": "Ordering and Checkout",
+    "question": "Can I order multiple items at once?",
+    "answer": "Yes, you can add as many items as you like to your cart before checking out."
+  },
+  {
+    "category": "Ordering and Checkout",
+    "question": "How do I know if my order went through?",
+    "answer": "You'll receive a confirmation email with your order number once your payment is processed."
+  },
+  {
+    "category": "Ordering and Checkout",
+    "question": "Can I cancel my order?",
+    "answer": "Orders can be canceled within 30 minutes of purchase. After that, they are processed for shipping."
+  },
+  {
+    "category": "Ordering and Checkout",
+    "question": "Can I schedule my order for a later delivery?",
+    "answer": "Yes, some items allow you to choose a preferred delivery date at checkout."
+  },
+  {
+    "category": "Ordering and Checkout",
+    "question": "Do you save my payment information?",
+    "answer": "We only save payment details if you choose to store them securely in your account."
+  },
+  {
+    "category": "Ordering and Checkout",
+    "question": "How do I update my shipping address before checkout?",
+    "answer": "Go to your cart, select 'Edit Address', and enter the correct shipping details."
+  },
+  {
+    "category": "Ordering and Checkout",
+    "question": "Can I checkout using different addresses for each item?",
+    "answer": "Currently, all items in a single order must be shipped to the same address."
+  },
+  {
+    "category": "Ordering and Checkout",
+    "question": "Do you have a minimum order value?",
+    "answer": "Some categories require a minimum purchase amount, shown at checkout if applicable."
+  },
+  {
+    "category": "Ordering and Checkout",
+    "question": "Why is my cart empty?",
+    "answer": "Items may be removed if they go out of stock or if you’ve been inactive for a long time."
+  },
+  {
+    "category": "Ordering and Checkout",
+    "question": "Can I save my cart for later?",
+    "answer": "Yes, you can move items to your wishlist to purchase them later."
+  },
+  {
+    "category": "Ordering and Checkout",
+    "question": "Do you offer express checkout?",
+    "answer": "Yes, registered users can use 'One-Click Checkout' for faster purchases."
+  },
+  {
+    "category": "Ordering and Checkout",
+    "question": "Can I see my estimated shipping cost before ordering?",
+    "answer": "Yes, enter your zip code at checkout to see shipping costs before payment."
+  },
+  {
+    "category": "Ordering and Checkout",
+    "question": "Why can't I checkout?",
+    "answer": "Check for missing information, payment issues, or item stock availability."
+  },
+  {
+    "category": "Ordering and Checkout",
+    "question": "Do you send invoices?",
+    "answer": "Yes, a digital invoice is included in your confirmation email."
+  },
+  {
+    "category": "Ordering and Checkout",
+    "question": "Can I pay in installments at checkout?",
+    "answer": "Yes, we offer installment options through select payment providers."
+  },
+  {
+    "category": "Ordering and Checkout",
+    "question": "Can I change my payment method after placing the order?",
+    "answer": "Payment methods cannot be changed once the order is confirmed."
+  },
+  {
+    "category": "Ordering and Checkout",
+    "question": "Do I need to pay for items in my cart immediately?",
+    "answer": "Items are only reserved once you complete checkout and payment."
+  },
+  {
+    "category": "Ordering and Checkout",
+    "question": "Can I buy a gift for someone and ship it directly to them?",
+    "answer": "Yes, enter their address as the shipping address during checkout."
+  },
+  {
+    "category": "Ordering and Checkout",
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, select the gift wrap option at checkout for an additional fee."
+  },
+  {
+    "category": "Ordering and Checkout",
+    "question": "Can I split payment between two cards?",
+    "answer": "Currently, we accept only one payment method per order."
+  },
+  {
+    "category": "Ordering and Checkout",
+    "question": "Why did my order fail?",
+    "answer": "This may happen due to payment errors, incorrect billing details, or stock unavailability."
+  },
+  {
+    "category": "Ordering and Checkout",
+    "question": "How do I reorder a previous purchase?",
+    "answer": "Log into your account, find the past order, and click 'Reorder'."
+  },
+  {
+    "category": "Ordering and Checkout",
+    "question": "Will my cart be saved if I log out?",
+    "answer": "Yes, your cart is saved if you’re logged into your account."
+  },
+  {
+    "category": "Ordering and Checkout",
+    "question": "Can I combine multiple orders into one shipment?",
+    "answer": "We cannot combine orders once they are placed."
+  },
+  {
+    "category": "Ordering and Checkout",
+    "question": "Do I get loyalty points for placing an order?",
+    "answer": "Yes, if you're enrolled in our loyalty program, points are added after payment."
+  },
+  {
+    "category": "Ordering and Checkout",
+    "question": "Can I place an order over the phone?",
+    "answer": "Yes, our customer service team can help place orders by phone."
+  },
+  {
+   "category": "Payment and Billing", 
+    "question": "What payment methods do you accept?",
+    "answer": "We accept credit cards, debit cards, PayPal, Apple Pay, Google Pay, and select installment payment providers."
+  },
+  {
+    "category": "Payment and Billing", 
+    "question": "Can I pay using PayPal?",
+    "answer": "Yes, PayPal is available as a payment option at checkout."
+  },
+  {
+    "category": "Payment and Billing", 
+    "question": "Do you accept international credit cards?",
+    "answer": "Yes, we accept most major international credit cards."
+  },
+  {
+    "category": "Payment and Billing", 
+    "question": "Is it safe to use my card on your site?",
+    "answer": "Yes, we use secure encryption and comply with PCI DSS standards for payment security."
+  },
+  {
+    "category": "Payment and Billing", 
+    "question": "Do you store my credit card details?",
+    "answer": "We only store your payment details if you choose to save them securely in your account."
+  },
+  {
+    "category": "Payment and Billing", 
+    "question": "Why was my payment declined?",
+    "answer": "Payments may be declined due to insufficient funds, incorrect details, or bank restrictions."
+  },
+  {
+    "category": "Payment and Billing", 
+    "question": "Can I pay in installments?",
+    "answer": "Yes, we offer installment payment plans through select providers."
+  },
+  {
+    "category": "Payment and Billing", 
+    "question": "Do you offer cash on delivery?",
+    "answer": "Currently, cash on delivery is available only in select locations."
+  },
+  {
+    "category": "Payment and Billing", 
+    "question": "When will my card be charged?",
+    "answer": "Your card will be charged immediately after you confirm your order."
+  },
+  {
+    "category": "Payment and Billing", 
+    "question": "Can I split payment across two cards?",
+    "answer": "No, we can only process one payment method per order."
+  },
+  {
+    "category": "Payment and Billing", 
+    "question": "Do you charge extra fees for certain payment methods?",
+    "answer": "No, we do not charge extra fees for any accepted payment method."
+  },
+  {
+    "category": "Payment and Billing", 
+    "question": "Can I change my payment method after placing the order?",
+    "answer": "Unfortunately, payment methods cannot be changed after an order is confirmed."
+  },
+  {
+    "category": "Payment and Billing", 
+    "question": "Do you accept prepaid gift cards?",
+    "answer": "Yes, as long as they are from a major payment network like Visa or Mastercard."
+  },
+  {
+    "category": "Payment and Billing", 
+    "question": "Can I get a copy of my payment receipt?",
+    "answer": "Yes, your receipt is sent via email and available in your account order history."
+  },
+  {
+    "category": "Payment and Billing", 
+    "question": "Do you charge sales tax?",
+    "answer": "Yes, sales tax is calculated based on your shipping address and added at checkout."
+  },
+  {
+    "category": "Payment and Billing", 
+    "question": "How do I update my billing address?",
+    "answer": "You can update your billing address in your account settings or during checkout."
+  },
+  {
+    "category": "Payment and Billing", 
+    "question": "Why is my billing address required?",
+    "answer": "It helps verify your payment method and prevent fraudulent transactions."
+  },
+  {
+    "category": "Payment and Billing", 
+    "question": "Do you accept cryptocurrency?",
+    "answer": "At this time, we do not accept cryptocurrency payments."
+  },
+  {
+    "category": "Payment and Billing", 
+    "question": "Can I get an invoice for my business?",
+    "answer": "Yes, please enter your business details at checkout to receive a tax invoice."
+  },
+  {
+    "category": "Payment and Billing", 
+    "question": "Do you support bank transfers?",
+    "answer": "Yes, for large orders we can arrange direct bank transfers."
+  },
+  {
+    "category": "Payment and Billing", 
+    "question": "Will I be charged in my local currency?",
+    "answer": "Yes, prices are displayed in your local currency where available."
+  },
+  {
+    "category": "Payment and Billing", 
+    "question": "Why was I charged twice?",
+    "answer": "This may be an authorization hold by your bank. Contact support for assistance."
+  },
+  {
+    "category": "Payment and Billing", 
+    "question": "How long does it take for a payment to process?",
+    "answer": "Most payments process instantly, but some may take up to 24 hours."
+  },
+  {
+    "category": "Payment and Billing", 
+    "question": "Do you offer financing options?",
+    "answer": "Yes, we partner with financing services for qualifying purchases."
+  },
+  {
+    "category": "Payment and Billing", 
+    "question": "Can I pay with multiple gift cards?",
+    "answer": "Yes, you can apply multiple gift cards to the same order."
+  },
+  {
+    "category": "Payment and Billing", 
+    "question": "Do you keep my payment history?",
+    "answer": "Yes, your payment history is stored securely in your account."
+  },
+  {
+    "category": "Payment and Billing", 
+    "question": "How do refunds appear on my statement?",
+    "answer": "Refunds will appear as a credit from our company name within 5-10 business days."
+  },
+  {
+    "category": "Payment and Billing", 
+    "question": "Can I set up automatic payments for subscriptions?",
+    "answer": "Yes, you can enable auto-billing in your subscription settings."
+  },
+  {
+    "category": "Payment and Billing", 
+    "question": "Why is there a small charge on my card?",
+    "answer": "This is a temporary authorization to verify your card, and it will be removed."
+  },
+  {
+    "category": "Payment and Billing", 
+    "question": "Do you accept payment over the phone?",
+    "answer": "Yes, our customer service team can securely process card payments by phone."
+  },
+  {
+    "category": "Shipping and Delivery", 
+    "question": "What shipping options do you offer?",
+    "answer": "We offer standard, expedited, and overnight shipping, depending on your location."
+  },
+  {
+    "category": "Shipping and Delivery", 
+    "question": "Do you offer free shipping?",
+    "answer": "Yes, free shipping is available on orders over the minimum purchase amount shown on our site."
+  },
+  {
+    "category": "Shipping and Delivery", 
+    "question": "How long does standard shipping take?",
+    "answer": "Standard shipping typically takes 3–7 business days depending on your location."
+  },
+  {
+    "category": "Shipping and Delivery", 
+    "question": "Do you ship internationally?",
+    "answer": "Yes, we ship to most countries worldwide. Shipping rates and times vary by destination."
+  },
+  {
+    "category": "Shipping and Delivery", 
+    "question": "How can I track my order?",
+    "answer": "Once your order ships, you'll receive a tracking number via email."
+  },
+  {
+    "category": "Shipping and Delivery", 
+    "question": "Do you deliver to P.O. boxes?",
+    "answer": "Yes, we deliver to P.O. boxes for most items, but some oversized products require a physical address."
+  },
+  {
+    "category": "Shipping and Delivery", 
+    "question": "Can I change my shipping address after placing an order?",
+    "answer": "We can update your address if the order hasn't shipped yet. Contact support immediately."
+  },
+  {
+    "category": "Shipping and Delivery", 
+    "question": "Do you offer same-day delivery?",
+    "answer": "Same-day delivery is available in select cities for eligible items."
+  },
+  {
+    "category": "Shipping and Delivery", 
+    "question": "Will all items in my order arrive together?",
+    "answer": "We try to ship items together, but some products may arrive in separate packages."
+  },
+  {
+    "category": "Shipping and Delivery", 
+    "question": "Do you deliver on weekends?",
+    "answer": "Weekend delivery is available in some areas for an additional fee."
+  },
+  {
+    "category": "Shipping and Delivery", 
+    "question": "How much does shipping cost?",
+    "answer": "Shipping costs depend on your location, chosen shipping method, and order weight."
+  },
+  {
+    "category": "Shipping and Delivery", 
+    "question": "Can I schedule my delivery?",
+    "answer": "Yes, certain items allow you to choose a delivery date at checkout."
+  },
+  {
+    "category": "Shipping and Delivery", 
+    "question": "Do you offer curbside pickup?",
+    "answer": "Yes, you can select curbside pickup at checkout for eligible locations."
+  },
+  {
+    "category": "Shipping and Delivery", 
+    "question": "Do you ship to military addresses?",
+    "answer": "Yes, we ship to APO/FPO/DPO addresses through USPS."
+  },
+  {
+    "category": "Shipping and Delivery", 
+    "question": "Why hasn't my tracking number updated?",
+    "answer": "Tracking updates can take 24-48 hours after shipment."
+  },
+  {
+    "category": "Shipping and Delivery", 
+    "question": "What happens if I miss my delivery?",
+    "answer": "The courier will leave a notice and attempt delivery again or take the package to a pickup point."
+  },
+  {
+    "category": "Shipping and Delivery", 
+    "question": "Do you require a signature for delivery?",
+    "answer": "Some high-value orders require a signature upon delivery."
+  },
+  {
+    "category": "Shipping and Delivery", 
+    "question": "Can I upgrade my shipping after placing an order?",
+    "answer": "Yes, if the order hasn't shipped yet, you can request a shipping upgrade."
+  },
+  {
+    "category": "Shipping and Delivery", 
+    "question": "Do you ship hazardous materials?",
+    "answer": "Certain restricted items cannot be shipped due to safety regulations."
+  },
+  {
+    "category": "Shipping and Delivery", 
+    "question": "Can I ship to multiple addresses in one order?",
+    "answer": "Currently, we only ship to one address per order."
+  },
+  {
+    "category": "Shipping and Delivery", 
+    "question": "How do I qualify for free shipping?",
+    "answer": "Free shipping applies when your order meets the minimum spend threshold."
+  },
+  {
+    "category": "Shipping and Delivery", 
+    "question": "Do you ship during holidays?",
+    "answer": "Yes, but delivery times may be longer during peak holiday seasons."
+  },
+  {
+    "category": "Shipping and Delivery", 
+    "question": "Can I hold my shipment until I'm back from vacation?",
+    "answer": "Yes, some couriers offer hold services. Contact us to arrange it."
+  },
+  {
+    "category": "Shipping and Delivery", 
+    "question": "Do you offer white-glove delivery?",
+    "answer": "Yes, white-glove delivery is available for select furniture and appliances."
+  },
+  {
+    "category": "Shipping and Delivery", 
+    "question": "How do I report a lost package?",
+    "answer": "Contact customer service with your order number so we can investigate with the courier."
+  },
+  {
+    "category": "Shipping and Delivery", 
+    "question": "Do you ship perishable items?",
+    "answer": "Yes, perishable items are shipped with temperature-controlled packaging."
+  },
+  {
+    "category": "Shipping and Delivery", 
+    "question": "Can I choose my shipping carrier?",
+    "answer": "For most orders, carriers are automatically selected for best speed and cost."
+  },
+  {
+    "category": "Shipping and Delivery", 
+    "question": "Do you deliver to remote areas?",
+    "answer": "Yes, but delivery times and costs may be higher for remote locations."
+  },
+  {
+    "category": "Shipping and Delivery", 
+    "question": "Can I pay extra for faster shipping?",
+    "answer": "Yes, expedited and overnight shipping options are available at checkout."
+  },
+  {
+    "category": "Shipping and Delivery", 
+    "question": "Will I get shipping updates?",
+    "answer": "Yes, you'll receive email or SMS updates as your order progresses."
+  },
+  {
+    "category": "Returns and Refunds",
+    "question": "What is your return policy?",
+    "answer": "We accept returns within 30 days of delivery for unused items in their original packaging."
+  },
+  {
+    "category": "Returns and Refunds",
+    "question": "How do I start a return?",
+    "answer": "Log into your account, go to 'Order History', select the item, and click 'Start a Return'."
+  },
+  {
+    "category": "Returns and Refunds",
+    "question": "Do I need the original receipt to return an item?",
+    "answer": "Yes, a receipt or proof of purchase is required for all returns."
+  },
+  {
+    "category": "Returns and Refunds",
+    "question": "Are returns free?",
+    "answer": "We offer free returns for defective items; otherwise, return shipping fees may apply."
+  },
+  {
+    "category": "Returns and Refunds",
+    "question": "How long does it take to process a refund?",
+    "answer": "Refunds are typically processed within 5-10 business days after we receive the returned item."
+  },
+  {
+    "category": "Returns and Refunds",
+    "question": "Can I return a sale item?",
+    "answer": "Sale items can be returned unless marked 'Final Sale'."
+  },
+  {
+    "category": "Returns and Refunds",
+    "question": "Do you accept returns on opened items?",
+    "answer": "Opened items are accepted only if defective or damaged."
+  },
+  {
+    "category": "Returns and Refunds",
+    "question": "Can I exchange a product instead of a refund?",
+    "answer": "Yes, exchanges are available for the same product in a different size or color."
+  },
+  {
+    "category": "Returns and Refunds",
+    "question": "What if my item is damaged on arrival?",
+    "answer": "Contact customer service within 48 hours with photos, and we’ll arrange a replacement or refund."
+  },
+  {
+    "category": "Returns and Refunds",
+    "question": "Do I need to use the original packaging for returns?",
+    "answer": "Yes, returning items in their original packaging helps avoid damage during shipping."
+  },
+  {
+    "category": "Returns and Refunds",
+    "question": "How will I know you received my return?",
+    "answer": "We'll send you an email notification once your return is processed."
+  },
+  {
+    "category": "Returns and Refunds",
+    "question": "Can I return a gift I received?",
+    "answer": "Yes, with the order number or gift receipt, you can return a gifted item for store credit."
+  },
+  {
+    "category": "Returns and Refunds",
+    "question": "Do you refund shipping fees?",
+    "answer": "Original shipping fees are refunded only if the item was defective or incorrect."
+  },
+  {
+    "category": "Returns and Refunds",
+    "question": "What if I missed the return window?",
+    "answer": "Returns after the policy period are not accepted, but you may be eligible for store credit."
+  },
+  {
+    "category": "Returns and Refunds",
+    "question": "Can I return an online order in-store?",
+    "answer": "Yes, most online orders can be returned at our physical store locations."
+  },
+  {
+    "category": "Returns and Refunds",
+    "question": "Do you provide a prepaid return label?",
+    "answer": "Yes, you can download a prepaid return label during the return request process."
+  },
+  {
+    "category": "Returns and Refunds",
+    "question": "Can I return customized products?",
+    "answer": "Customized or personalized items are non-returnable unless defective."
+  },
+  {
+    "category": "Returns and Refunds",
+    "question": "How do refunds work for installment payments?",
+    "answer": "Refunds are applied to your installment plan, adjusting future payments accordingly."
+  },
+  {
+    "category": "Returns and Refunds",
+    "question": "What if my refund is incorrect?",
+    "answer": "Contact support with your order details, and we'll investigate immediately."
+  },
+  {
+    "category": "Returns and Refunds",
+    "question": "Can I return an item bought with a gift card?",
+    "answer": "Yes, refunds for such items are issued back to a gift card."
+  },
+  {
+    "category": "Returns and Refunds",
+    "question": "Do you accept returns on clearance items?",
+    "answer": "Clearance items are usually final sale unless defective."
+  },
+  {
+    "category": "Returns and Refunds",
+    "question": "Can I drop off my return at a courier location?",
+    "answer": "Yes, you can drop off returns at the courier specified on your return label."
+  },
+  {
+    "category": "Returns and Refunds",
+    "question": "How do I return a large or heavy item?",
+    "answer": "Contact our support team to arrange for a freight return."
+  },
+  {
+    "category": "Returns and Refunds",
+    "question": "Do you accept returns on subscription items?",
+    "answer": "Subscription items can only be returned if defective."
+  },
+  {
+    "category": "Returns and Refunds",
+    "question": "What if I received the wrong item?",
+    "answer": "Contact us immediately, and we'll send the correct item at no extra charge."
+  },
+  {
+    "category": "Returns and Refunds",
+    "question": "Can I request store credit instead of a refund?",
+    "answer": "Yes, store credit is available as a refund option."
+  },
+  {
+    "category": "Returns and Refunds",
+    "question": "Do you charge a restocking fee?",
+    "answer": "Some items may have a restocking fee, which will be shown before confirming your return."
+  },
+  {
+    "category": "Returns and Refunds",
+    "question": "How do I track my return shipment?",
+    "answer": "You can use the tracking number provided on your return label."
+  },
+  {
+    "category": "Returns and Refunds",
+    "question": "Can I return multiple items in one package?",
+    "answer": "Yes, as long as they are from the same order and return request."
+  },
+  {
+    "category": "Returns and Refunds",
+    "question": "What happens if my return is lost in transit?",
+    "answer": "Contact us with your tracking details so we can open a claim with the courier."
+  },
+  {
+    "category": "Accounts and Security",
+    "question": "How do I create a new account?",
+    "answer": "Click the 'Sign Up' button on our homepage, fill in your details including email and password, then verify your email to activate your account."
+  },
+  {
+    "category": "Accounts and Security",
+    "question": "Do I need an account to place an order?",
+    "answer": "No, you can checkout as a guest, but creating an account lets you track orders and manage returns easily."
+  },
+  {
+    "category": "Accounts and Security",
+    "question": "How do I log in to my account?",
+    "answer": "Click the 'Login' button at the top right of our site and enter your registered email address and password."
+  },
+  {
+    "category": "Accounts and Security",
+    "question": "I forgot my password, what should I do?",
+    "answer": "Click 'Forgot Password' on the login page, enter your registered email, and follow the password reset instructions sent to your inbox."
+  },
+  {
+    "category": "Accounts and Security",
+    "question": "How can I change my password?",
+    "answer": "Go to 'My Account' > 'Account Settings' and select 'Change Password'. Enter your current password and then your new password."
+  },
+  {
+    "category": "Accounts and Security",
+    "question": "How can I update my email address?",
+    "answer": "In 'My Account', go to 'Account Information' and update your email address. You will be asked to confirm the new email."
+  },
+  {
+    "category": "Accounts and Security",
+    "question": "Can I change my username?",
+    "answer": "Usernames are fixed and cannot be changed once your account is created."
+  },
+  {
+    "category": "Accounts and Security",
+    "question": "How do I update my personal information?",
+    "answer": "Navigate to 'My Account' > 'Profile Details' and edit your personal information such as name, phone number, or shipping address."
+  },
+  {
+    "category": "Accounts and Security",
+    "question": "How can I delete my account?",
+    "answer": "Please contact our customer support to request account deletion. Once deleted, your order history will no longer be accessible."
+  },
+  {
+    "category": "Accounts and Security",
+    "question": "How do I check my account activity?",
+    "answer": "Go to 'My Account' > 'Order History' or 'Recent Activity' to see all recent actions taken on your account."
+  },
+  {
+    "category": "Accounts and Security",
+    "question": "Is my personal information secure?",
+    "answer": "Yes, we use encryption and follow strict data privacy regulations to protect your information."
+  },
+  {
+    "category": "Accounts and Security",
+    "question": "How do I enable two-factor authentication?",
+    "answer": "Go to 'My Account' > 'Security Settings' and follow the instructions to enable two-factor authentication using your phone or authenticator app."
+  },
+  {
+    "category": "Accounts and Security",
+    "question": "What should I do if I suspect unauthorized access?",
+    "answer": "Immediately reset your password, enable two-factor authentication, and contact our customer support to review your account."
+  },
+  {
+    "category": "Accounts and Security",
+    "question": "Can I log in with my Google or Facebook account?",
+    "answer": "Yes, on the login page, choose 'Login with Google' or 'Login with Facebook' to sign in using your social account."
+  },
+  {
+    "category": "Accounts and Security",
+    "question": "Can I have multiple accounts?",
+    "answer": "Yes, but each account must have a unique email address."
+  },
+  {
+    "category": "Accounts and Security",
+    "question": "Why am I locked out of my account?",
+    "answer": "Your account may be locked after too many failed login attempts. Wait 30 minutes or reset your password to regain access."
+  },
+  {
+    "category": "Accounts and Security",
+    "question": "How do I change my security questions?",
+    "answer": "In 'My Account' > 'Security Settings', you can update or change your security questions at any time."
+  },
+  {
+    "category": "Accounts and Security",
+    "question": "Do you store my payment information?",
+    "answer": "We store only encrypted payment tokens if you choose to save your card for faster checkout."
+  },
+  {
+    "category": "Accounts and Security",
+    "question": "How do I log out?",
+    "answer": "Click your profile icon and select 'Log Out' from the dropdown menu."
+  },
+  {
+    "category": "Accounts and Security",
+    "question": "Can I see where I'm logged in from?",
+    "answer": "Yes, under 'Security Settings', you can view active sessions and log out from any device remotely."
+  },
+  {
+    "category": "Accounts and Security",
+    "question": "How do I secure my account?",
+    "answer": "Use a strong password, enable two-factor authentication, and never share your login details."
+  },
+  {
+    "category": "Accounts and Security",
+    "question": "Do you sell my personal data?",
+    "answer": "No, we never sell personal data. We only use it to process orders and improve your shopping experience."
+  },
+  {
+    "category": "Accounts and Security",
+    "question": "Can I use the same email for multiple accounts?",
+    "answer": "No, each account requires a unique email address."
+  },
+  {
+    "category": "Accounts and Security",
+    "question": "What password requirements do you have?",
+    "answer": "Passwords must be at least 8 characters long and include both letters and numbers."
+  },
+  {
+    "category": "Accounts and Security",
+    "question": "Do you log my IP address when I log in?",
+    "answer": "Yes, for security monitoring and fraud prevention."
+  },
+  {
+    "category": "Accounts and Security",
+    "question": "Can I deactivate my account temporarily?",
+    "answer": "Yes, please contact customer support to request a temporary deactivation."
+  },
+  {
+    "category": "Accounts and Security",
+    "question": "How do I change my phone number?",
+    "answer": "In 'Account Information', update your phone number and verify it via SMS."
+  },
+  {
+    "category": "Accounts and Security",
+    "question": "Why do you need my date of birth?",
+    "answer": "We use it for account verification and age-restricted product eligibility."
+  },
+  {
+    "category": "Accounts and Security",
+    "question": "How can I recover my account if I lose access to my email?",
+    "answer": "Contact customer support and verify your identity using security questions or other registered details."
+  },
+  {
+    "category": "Accounts and Security",
+    "question": "Do you notify me of suspicious activity?",
+    "answer": "Yes, we send alerts via email or SMS if we detect unusual account activity."
+  },
+  {
+    "category": "Offers and Promotions",
+    "question": "How can I find current offers on your website?",
+    "answer": "You can view current offers on our 'Deals' or 'Promotions' page, accessible from the main menu."
+  },
+  {
+    "category": "Offers and Promotions",
+    "question": "Do you offer a welcome discount for new customers?",
+    "answer": "Yes, new customers receive a 10% welcome discount when signing up for our newsletter."
+  },
+  {
+    "category": "Offers and Promotions",
+    "question": "Are there seasonal sales?",
+    "answer": "We run seasonal sales during events like Black Friday, Cyber Monday, and holiday seasons."
+  },
+  {
+    "category": "Offers and Promotions",
+    "question": "How do I apply a promo code?",
+    "answer": "Enter your promo code in the 'Discount Code' field during checkout, then click 'Apply'."
+  },
+  {
+    "category": "Offers and Promotions",
+    "question": "Why isn't my promo code working?",
+    "answer": "Your code may be expired, already used, or not applicable to certain products. Please check the offer terms."
+  },
+  {
+    "category": "Offers and Promotions",
+    "question": "Can I combine multiple promo codes?",
+    "answer": "Only one promo code can be applied per order unless stated otherwise in the promotion terms."
+  },
+  {
+    "category": "Offers and Promotions",
+    "question": "Do you offer free shipping promotions?",
+    "answer": "Yes, we occasionally offer free shipping on orders above a certain amount or during special campaigns."
+  },
+  {
+    "category": "Offers and Promotions",
+    "question": "Where can I get exclusive promo codes?",
+    "answer": "Sign up for our email newsletter or follow our social media channels for exclusive promo codes."
+  },
+  {
+    "category": "Offers and Promotions",
+    "question": "Do you have a student discount?",
+    "answer": "Yes, students can enjoy 15% off after verifying their student status through our partner platform."
+  },
+  {
+    "category": "Offers and Promotions",
+    "question": "Do promotions apply to all products?",
+    "answer": "Some promotions exclude specific brands or clearance items. Please check the offer details."
+  },
+  {
+    "category": "Offers and Promotions",
+    "question": "Can I use a promo code on sale items?",
+    "answer": "In most cases, promo codes cannot be combined with sale prices unless explicitly stated."
+  },
+  {
+    "category": "Offers and Promotions",
+    "question": "How long do promotions last?",
+    "answer": "Each promotion has a set duration, typically mentioned in the terms and conditions."
+  },
+  {
+    "category": "Offers and Promotions",
+    "question": "Do you offer first-purchase discounts?",
+    "answer": "Yes, you can get 10% off your first purchase by signing up for our mailing list."
+  },
+  {
+    "category": "Offers and Promotions",
+    "question": "Do loyalty members get extra discounts?",
+    "answer": "Yes, loyalty program members receive exclusive discounts and early access to sales."
+  },
+  {
+    "category": "Offers and Promotions",
+    "question": "Can I get a price adjustment if an item goes on sale after I buy it?",
+    "answer": "We offer price adjustments within 7 days of purchase for full-price items that go on sale."
+  },
+  {
+    "category": "Offers and Promotions",
+    "question": "Are there birthday discounts?",
+    "answer": "Yes, loyalty members receive a special birthday discount via email."
+  },
+  {
+    "category": "Offers and Promotions",
+    "question": "Do you offer flash sales?",
+    "answer": "Yes, flash sales happen occasionally and are announced on our website and social media."
+  },
+  {
+    "category": "Offers and Promotions",
+    "question": "How do I know if a promotion is still valid?",
+    "answer": "Check the promotion's end date in the offer terms or on the campaign page."
+  },
+  {
+    "category": "Offers and Promotions",
+    "question": "Do you have bundle offers?",
+    "answer": "Yes, we offer bundle discounts where you can save by purchasing multiple items together."
+  },
+  {
+    "category": "Offers and Promotions",
+    "question": "Can promo codes be used on gift cards?",
+    "answer": "Promo codes usually do not apply to gift card purchases."
+  },
+  {
+    "category": "Offers and Promotions",
+    "question": "Are there promotions for bulk purchases?",
+    "answer": "We sometimes offer discounts for large orders. Please contact our sales team for details."
+  },
+  {
+    "category": "Offers and Promotions",
+    "question": "Do you offer referral rewards?",
+    "answer": "Yes, refer a friend and both of you will receive a discount on your next order."
+  },
+  {
+    "category": "Offers and Promotions",
+    "question": "Can I get free gifts with purchase?",
+    "answer": "Yes, some promotions include free gifts when you meet certain purchase criteria."
+  },
+  {
+    "category": "Offers and Promotions",
+    "question": "How do I sign up for promotional emails?",
+    "answer": "You can sign up through the subscription box at the bottom of our homepage."
+  },
+  {
+    "category": "Offers and Promotions",
+    "question": "Are clearance items eligible for promotions?",
+    "answer": "Most clearance items are excluded from additional discounts unless stated otherwise."
+  },
+  {
+    "category": "Offers and Promotions",
+    "question": "Do you have exclusive app-only offers?",
+    "answer": "Yes, download our app to access exclusive discounts and early sale notifications."
+  },
+  {
+    "category": "Offers and Promotions",
+    "question": "Can I stack loyalty points with promotions?",
+    "answer": "Yes, you can redeem loyalty points on orders that also use promotions unless restricted."
+  },
+  {
+    "category": "Offers and Promotions",
+    "question": "How often do you run sales?",
+    "answer": "We run sales several times a year, including seasonal events and clearance periods."
+  },
+  {
+    "category": "Offers and Promotions",
+    "question": "Do you price match competitors' promotions?",
+    "answer": "We match competitors' prices on identical items, but not their limited-time promotions."
+  },
+  {
+    "category": "Offers and Promotions",
+    "question": "Can I get a rain check for a promotion?",
+    "answer": "Unfortunately, we do not offer rain checks for expired promotions."
+  },
+  {
+    "category": "Store Policies",
+    "question": "What is your store's return policy?",
+    "answer": "We accept returns within 30 days of purchase, provided the items are unused, in original packaging, and accompanied by proof of purchase."
+  },
+  {
+    "category": "Store Policies",
+    "question": "Do you have a price match policy?",
+    "answer": "Yes, we offer price matching for identical items from authorized retailers within 7 days of your purchase."
+  },
+  {
+    "category": "Store Policies",
+    "question": "What is your privacy policy?",
+    "answer": "We respect your privacy and do not share your personal information with third parties without your consent, except as required by law."
+  },
+  {
+    "category": "Store Policies",
+    "question": "Do you have a warranty policy?",
+    "answer": "Most products come with a standard manufacturer's warranty. Some items may have extended warranties, details of which are provided on the product page."
+  },
+  {
+    "category": "Store Policies",
+    "question": "What is your cancellation policy?",
+    "answer": "Orders can be canceled within 1 hour of placement. After that, cancellations are subject to shipping status."
+  },
+  {
+    "category": "Store Policies",
+    "question": "Do you have an environmental policy?",
+    "answer": "Yes, we are committed to sustainable practices, including eco-friendly packaging and responsible sourcing."
+  },
+  {
+    "category": "Store Policies",
+    "question": "What is your damaged goods policy?",
+    "answer": "If you receive a damaged product, contact our support team within 48 hours with photos, and we will arrange a replacement or refund."
+  },
+  {
+    "category": "Store Policies",
+    "question": "Do you have a lost item policy?",
+    "answer": "If your package is confirmed lost, we will send a replacement or process a refund after verifying the claim."
+  },
+  {
+    "category": "Store Policies",
+    "question": "What is your exchange policy?",
+    "answer": "Exchanges are accepted within 30 days for items in original condition. Shipping costs may apply."
+  },
+  {
+    "category": "Store Policies",
+    "question": "Do you have a resale policy?",
+    "answer": "Items purchased from our store are for personal use only and may not be resold without authorization."
+  },
+  {
+    "category": "Store Policies",
+    "question": "What is your store credit policy?",
+    "answer": "Store credit can be used for any future purchase and does not expire unless otherwise stated."
+  },
+  {
+    "category": "Store Policies",
+    "question": "Do you have a layaway policy?",
+    "answer": "We currently do not offer layaway services."
+  },
+  {
+    "category": "Store Policies",
+    "question": "What is your refund processing policy?",
+    "answer": "Refunds are processed within 5-7 business days after the returned item is inspected."
+  },
+  {
+    "category": "Store Policies",
+    "question": "Do you have a shipping damage liability policy?",
+    "answer": "We take responsibility for damage caused during shipping and will provide replacements or refunds accordingly."
+  },
+  {
+    "category": "Store Policies",
+    "question": "What is your minimum order policy?",
+    "answer": "We do not have a minimum order requirement unless stated for wholesale purchases."
+  },
+  {
+    "category": "Store Policies",
+    "question": "Do you have a product recall policy?",
+    "answer": "Yes, in case of a recall, we will contact affected customers directly with instructions for returns or replacements."
+  },
+  {
+    "category": "Store Policies",
+    "question": "What is your restricted items policy?",
+    "answer": "Certain items cannot be shipped to specific locations due to legal restrictions. Details are listed on the product page."
+  },
+  {
+    "category": "Store Policies",
+    "question": "Do you have a special orders policy?",
+    "answer": "Special orders may require additional processing time and are non-refundable once confirmed."
+  },
+  {
+    "category": "Store Policies",
+    "question": "What is your defective product policy?",
+    "answer": "Defective items can be returned within 30 days for a replacement or full refund."
+  },
+  {
+    "category": "Store Policies",
+    "question": "Do you have a partial refund policy?",
+    "answer": "Partial refunds may be issued for returned items that are not in their original condition."
+  },
+  {
+    "category": "Store Policies",
+    "question": "What is your replacement policy?",
+    "answer": "We provide replacements for defective or damaged products within the return window."
+  },
+  {
+    "category": "Store Policies",
+    "question": "Do you have a bulk purchase policy?",
+    "answer": "Bulk orders may qualify for special pricing and have different return conditions."
+  },
+  {
+    "category": "Store Policies",
+    "question": "What is your store hours policy?",
+    "answer": "Our online store operates 24/7, while customer support is available Monday to Friday, 9 AM to 6 PM."
+  },
+  {
+    "category": "Store Policies",
+    "question": "Do you have a customer conduct policy?",
+    "answer": "We reserve the right to refuse service to customers engaging in abusive or fraudulent behavior."
+  },
+  {
+    "category": "Store Policies",
+    "question": "What is your payment verification policy?",
+    "answer": "Orders may be subject to payment verification before processing to prevent fraud."
+  },
+  {
+    "category": "Store Policies",
+    "question": "Do you have a international shipping policy?",
+    "answer": "Yes, we ship to select countries. International customers are responsible for customs duties and taxes."
+  },
+  {
+    "category": "Store Policies",
+    "question": "What is your pre-order policy?",
+    "answer": "Pre-order items will be shipped on or after the release date specified on the product page."
+  },
+  {
+    "category": "Store Policies",
+    "question": "Do you have a backorder policy?",
+    "answer": "Backordered items will be shipped as soon as they are back in stock. We will notify you of any delays."
+  },
+  {
+    "category": "Store Policies",
+    "question": "What is your customer data policy?",
+    "answer": "We store customer data securely and use it only to fulfill orders and improve our services."
+  },
+  {
+    "category": "Store Policies",
+    "question": "Do you have a loyalty program policy?",
+    "answer": "Yes, our loyalty program allows you to earn points on every purchase, which can be redeemed for discounts."
+  },
+  {
+    "category": "Technical Help",
+    "question": "I'm having trouble logging in. What should I do?",
+    "answer": "Try resetting your password using the 'Forgot Password' link. If issues persist, contact our support team."
+  },
+  {
+    "category": "Technical Help",
+    "question": "The website is loading slowly. How can I fix this?",
+    "answer": "Try clearing your browser cache, checking your internet connection, or using a different browser."
+  },
+  {
+    "category": "Technical Help",
+    "question": "Why am I not receiving order confirmation emails?",
+    "answer": "Check your spam or junk folder. Also, ensure your email address is correct in your account settings."
+  },
+  {
+    "category": "Technical Help",
+    "question": "How do I clear my browser cache?",
+    "answer": "You can clear your cache from your browser's settings or preferences under 'Privacy' or 'History'."
+  },
+  {
+    "category": "Technical Help",
+    "question": "The payment page isn't loading. What should I do?",
+    "answer": "Try refreshing the page, disabling browser extensions, or using a different browser or device."
+  },
+  {
+    "category": "Technical Help",
+    "question": "How do I update my browser to the latest version?",
+    "answer": "Visit your browser's official website or use its update feature in settings to get the latest version."
+  },
+  {
+    "category": "Technical Help",
+    "question": "The site shows an error message. Who can I contact?",
+    "answer": "Please take a screenshot of the error and contact our support team with details."
+  },
+  {
+    "category": "Technical Help",
+    "question": "Can I use your website on my mobile device?",
+    "answer": "Yes, our website is mobile-friendly and works on most smartphones and tablets."
+  },
+  {
+    "category": "Technical Help",
+    "question": "Why can't I add items to my cart?",
+    "answer": "Ensure the item is in stock and you are logged in if required. Try refreshing the page or clearing your cache."
+  },
+  {
+    "category": "Technical Help",
+    "question": "The checkout button is not responding. What do I do?",
+    "answer": "Try using a different browser, clear your cache, or disable any ad blockers."
+  },
+  {
+    "category": "Technical Help",
+    "question": "How do I enable cookies in my browser?",
+    "answer": "Go to your browser's settings under 'Privacy' and enable cookies for a better shopping experience."
+  },
+  {
+    "category": "Technical Help",
+    "question": "I can't upload my profile picture. Why?",
+    "answer": "Ensure your image meets the size and format requirements, such as JPG or PNG, and try again."
+  },
+  {
+    "category": "Technical Help",
+    "question": "My order status isn't updating. What does this mean?",
+    "answer": "Sometimes updates are delayed. If it's been several days, please contact customer support."
+  },
+  {
+    "category": "Technical Help",
+    "question": "How do I report a bug on your website?",
+    "answer": "Contact our technical support team with a detailed description and any screenshots."
+  },
+  {
+    "category": "Technical Help",
+    "question": "Can I use your website on older browsers?",
+    "answer": "We recommend using the latest versions of major browsers for the best experience."
+  },
+  {
+    "category": "Technical Help",
+    "question": "Why do I get a security warning when visiting your site?",
+    "answer": "This may be due to outdated certificates or browser settings. Please ensure your browser is up to date."
+  },
+  {
+    "category": "Technical Help",
+    "question": "How do I reset my two-factor authentication?",
+    "answer": "Contact customer support to verify your identity and reset your two-factor authentication."
+  },
+  {
+    "category": "Technical Help",
+    "question": "The product images aren't loading properly. How can I fix this?",
+    "answer": "Try clearing your browser cache or switching to another browser."
+  },
+  {
+    "category": "Technical Help",
+    "question": "I'm experiencing frequent disconnections. What should I do?",
+    "answer": "Check your internet connection, restart your router, or try accessing the site on another network."
+  },
+  {
+    "category": "Technical Help",
+    "question": "How do I update my account information?",
+    "answer": "Log into your account and navigate to 'Account Settings' to update your personal details."
+  },
+  {
+    "category": "Technical Help",
+    "question": "The promo code field is missing at checkout. Why?",
+    "answer": "Some promotions don't require codes and are automatically applied at checkout."
+  },
+  {
+    "category": "Technical Help",
+    "question": "Why am I seeing a blank page?",
+    "answer": "Try refreshing the page, clearing your cache, or disabling browser extensions."
+  },
+  {
+    "category": "Technical Help",
+    "question": "How do I enable JavaScript in my browser?",
+    "answer": "Go to your browser settings and ensure JavaScript is enabled under security or content settings."
+  },
+  {
+    "category": "Technical Help",
+    "question": "I'm unable to reset my password. What can I do?",
+    "answer": "Check that you're entering the correct registered email. If problems continue, contact support."
+  },
+  {
+    "category": "Technical Help",
+    "question": "Why is my saved payment method not showing?",
+    "answer": "Your saved payment methods appear when you're logged into your account and after verification."
+  },
+  {
+    "category": "Technical Help",
+    "question": "Can I download an invoice from my order history?",
+    "answer": "Yes, log into your account, view the order details, and download the invoice."
+  },
+  {
+    "category": "Technical Help",
+    "question": "Why can't I use the website on my tablet?",
+    "answer": "Ensure your tablet's browser is updated and supports modern web standards."
+  },
+  {
+    "category": "Technical Help",
+    "question": "How do I enable push notifications for your site?",
+    "answer": "Allow notifications when prompted by your browser or enable them in site settings."
+  },
+  {
+    "category": "Technical Help",
+    "question": "I get logged out automatically. Why?",
+    "answer": "For security reasons, sessions expire after a period of inactivity. Log back in to continue."
+  },
+  {
+    "category": "Technical Help",
+    "question": "The site isn't displaying correctly. What can I do?",
+    "answer": "Clear your browser cache, disable extensions, or try a different browser."
+  },
+  {
+    "category": "General Shopping Advice",
+    "question": "How can I find the best deals on your site?",
+    "answer": "Check our 'Deals' page regularly, sign up for newsletters, and follow us on social media for exclusive offers."
+  },
+  {
+    "category": "General Shopping Advice",
+    "question": "What should I consider before buying electronics?",
+    "answer": "Look for product specifications, reviews, warranty details, and compatibility with your existing devices."
+  },
+  {
+    "category": "General Shopping Advice",
+    "question": "How do I choose the right size for clothing?",
+    "answer": "Refer to our detailed size charts and customer reviews for fit recommendations before purchasing."
+  },
+  {
+    "category": "General Shopping Advice",
+    "question": "Is it better to buy items in bulk or individually?",
+    "answer": "Buying in bulk often saves money, but consider your storage space and usage before purchasing large quantities."
+  },
+  {
+    "category": "General Shopping Advice",
+    "question": "How can I ensure the authenticity of products?",
+    "answer": "Buy directly from our store to guarantee authentic products backed by our quality assurance."
+  },
+  {
+    "category": "General Shopping Advice",
+    "question": "What payment method is safest to use online?",
+    "answer": "Credit cards and trusted payment services like PayPal offer buyer protection and secure transactions."
+  },
+  {
+    "category": "General Shopping Advice",
+    "question": "How do I avoid impulse purchases?",
+    "answer": "Make a shopping list, set a budget, and take time to think before adding items to your cart."
+  },
+  {
+    "category": "General Shopping Advice",
+    "question": "Can I return items if I change my mind?",
+    "answer": "Yes, items in original condition can be returned within 30 days as per our return policy."
+  },
+  {
+    "category": "General Shopping Advice",
+    "question": "Should I read product reviews before buying?",
+    "answer": "Yes, customer reviews provide valuable insights into product quality and user experience."
+  },
+  {
+    "category": "General Shopping Advice",
+    "question": "How do I spot counterfeit products online?",
+    "answer": "Watch out for suspiciously low prices, poor quality images, and sellers without verifiable contact information."
+  },
+  {
+    "category": "General Shopping Advice",
+    "question": "Are warranties important when buying products?",
+    "answer": "Yes, warranties protect you against defects and provide repair or replacement options."
+  },
+  {
+    "category": "General Shopping Advice",
+    "question": "What is the best time to shop for discounts?",
+    "answer": "Major sales events like Black Friday, Cyber Monday, and holiday seasons usually offer the best discounts."
+  },
+  {
+    "category": "General Shopping Advice",
+    "question": "How do I save money on shipping costs?",
+    "answer": "Consolidate orders, meet free shipping thresholds, or choose slower shipping options to save."
+  },
+  {
+    "category": "General Shopping Advice",
+    "question": "What should I do if the product doesn’t meet my expectations?",
+    "answer": "Contact customer service for return or exchange options according to our policies."
+  },
+  {
+    "category": "General Shopping Advice",
+    "question": "How can I protect my personal information while shopping online?",
+    "answer": "Use secure websites (look for https), strong passwords, and avoid public Wi-Fi when making purchases."
+  },
+  {
+    "category": "General Shopping Advice",
+    "question": "Is it better to buy new or refurbished products?",
+    "answer": "Refurbished products can be a good value if they come with a warranty and are certified by the manufacturer."
+  },
+  {
+    "category": "General Shopping Advice",
+    "question": "Can I use coupons on sale items?",
+    "answer": "Some coupons are valid on sale items, but check the terms and conditions for restrictions."
+  },
+  {
+    "category": "General Shopping Advice",
+    "question": "How do I know if a product is in stock?",
+    "answer": "Product pages show current stock status. If out of stock, you may sign up for restock notifications."
+  },
+  {
+    "category": "General Shopping Advice",
+    "question": "Should I sign up for newsletters?",
+    "answer": "Yes, newsletters often include exclusive deals, new arrivals, and useful shopping tips."
+  },
+  {
+    "category": "General Shopping Advice",
+    "question": "How can I make my shopping experience faster?",
+    "answer": "Save your payment and shipping details in your account for quicker checkout."
+  },
+  {
+    "category": "General Shopping Advice",
+    "question": "What are the benefits of creating an account?",
+    "answer": "You can track orders, save preferences, access loyalty rewards, and get personalized recommendations."
+  },
+  {
+    "category": "General Shopping Advice",
+    "question": "Can I negotiate prices online?",
+    "answer": "Prices are fixed, but check for ongoing promotions or bulk discounts."
+  },
+  {
+    "category": "General Shopping Advice",
+    "question": "How do I avoid overspending?",
+    "answer": "Set a budget, prioritize needs over wants, and avoid shopping when emotional."
+  },
+  {
+    "category": "General Shopping Advice",
+    "question": "Is it safe to shop on mobile devices?",
+    "answer": "Yes, as long as you use secure connections and trusted apps or browsers."
+  },
+  {
+    "category": "General Shopping Advice",
+    "question": "How do I choose between similar products?",
+    "answer": "Compare features, reviews, prices, and warranty to make an informed decision."
+  },
+  {
+    "category": "General Shopping Advice",
+    "question": "Can I get help choosing a product?",
+    "answer": "Yes, our customer support team is available to provide recommendations and answer questions."
+  },
+  {
+    "category": "General Shopping Advice",
+    "question": "What should I do if I receive a wrong item?",
+    "answer": "Contact customer support immediately to arrange a return and replacement."
+  },
+  {
+    "category": "General Shopping Advice",
+    "question": "How can I tell if a deal is genuine?",
+    "answer": "Verify the original price, check for reviews, and avoid deals that seem too good to be true."
+  },
+  {
+    "category": "General Shopping Advice",
+    "question": "What payment security measures do you have?",
+    "answer": "We use SSL encryption, comply with PCI standards, and partner with secure payment gateways."
+  },
+  {
+    "category": "General Shopping Advice",
+    "question": "Should I keep my order confirmation emails?",
+    "answer": "Yes, they serve as proof of purchase and can be helpful for returns or disputes."
+  }
+]

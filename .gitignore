@@ -1,0 +1,202 @@
+# .gitignore for NLP RAG Chatbot Project
+
+# ================================
+# Python
+# ================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# ================================
+# Virtual Environments
+# ================================
+venv/
+env/
+ENV/
+.venv/
+.env/
+.ENV/
+
+# ================================
+# Environment Variables & Secrets
+# ================================
+.env
+.env.local
+.env.production
+.env.staging
+*.env
+config.json
+secrets.json
+
+# ================================
+# Machine Learning Models & Data
+# ================================
+
+# Trained Models (Large Files)
+distilbert-goemotions-10k/
+debug-distilbert-goemotions/
+*.bin
+*.safetensors
+pytorch_model.bin
+model.safetensors
+
+# FAISS Vector Stores
+faq_vector_store.faiss
+faq_vector_store_metadata.pkl
+*_vector_store.faiss
+*_vector_store_metadata.pkl
+*.index
+
+# HuggingFace Cache
+.cache/
+transformers_cache/
+sentence_transformers_cache/
+
+# Model Checkpoints
+checkpoint-*/
+runs/
+logs/
+tensorboard_logs/
+
+# ================================
+# Databases
+# ================================
+*.db
+*.sqlite
+*.sqlite3
+chatbot_feedback.db
+
+# MySQL dumps
+*.sql
+*.dump
+
+# ================================
+# Logging & Monitoring
+# ================================
+logs/
+*.log
+*.log.*
+wandb/
+mlruns/
+
+# Keep documentation notebooks
+!docs/*.ipynb
+!examples/*.ipynb
+
+# ================================
+# IDE & Editor Files
+# ================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ================================
+# System Files
+# ================================
+*.tmp
+*.temp
+.cache
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# ================================
+# Streamlit
+# ================================
+.streamlit/
+
+# ================================
+# Torch & GPU
+# ================================
+*.pth
+*.pt
+.torch/
+
+# ================================
+# Package Management
+# ================================
+pip-log.txt
+pip-delete-this-directory.txt
+.pipenv/
+
+# ================================
+# Documentation Build
+# ================================
+docs/_build/
+site/
+
+# ================================
+# Testing
+# ================================
+.pytest_cache/
+.coverage
+htmlcov/
+.nox/
+
+# ================================
+# Backup Files
+# ================================
+*.bak
+*.backup
+*.old
+*_backup
+*_old
+
+# ================================
+# Compressed Files
+# ================================
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# ================================
+# Keep Important Files
+# ================================
+# Keep requirements and setup files
+!requirements.txt
+!setup.py
+!README.md
+!LICENSE
+!.gitignore
+
+# Keep small config files
+!config.yaml
+!config.yml
+
+# Keep documentation
+!docs/
+!examples/
+!README.md
